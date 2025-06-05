@@ -1,5 +1,3 @@
-.
-
 🐾 Technical Test Zoozi
 Aplikasi Flutter untuk pengelolaan dompet digital, dikembangkan sebagai bagian dari technical test untuk Zoozi. Aplikasi ini memungkinkan pengguna untuk melihat detail dompet, melakukan deposit dan penarikan, serta melihat riwayat transaksi.
 
