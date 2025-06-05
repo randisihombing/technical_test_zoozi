@@ -1,16 +1,18 @@
-# technical_test
+.
 
-A new Flutter project.
+🐾 Technical Test Zoozi
+Aplikasi Flutter untuk pengelolaan dompet digital, dikembangkan sebagai bagian dari technical test untuk Zoozi. Aplikasi ini memungkinkan pengguna untuk melihat detail dompet, melakukan deposit dan penarikan, serta melihat riwayat transaksi.
 
-## Getting Started
+✨ Fitur Utama
+Autentikasi: Login dan registrasi pengguna.
 
-This project is a starting point for a Flutter application.
+Detail Dompet: Menampilkan informasi dompet seperti saldo, mata uang, dan tanggal pembuatan.
 
-A few resources to get you started if this is your first Flutter project:
+Transaksi: Melihat daftar transaksi dengan fitur pagination.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Deposit & Penarikan: Melakukan transaksi deposit dan penarikan dana.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tema: Mendukung mode terang dan gelap dengan pengaturan tema.
+
+Internasionalisasi: Mendukung bahasa Inggris dan Indonesia.
+
