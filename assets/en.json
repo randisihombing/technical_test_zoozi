@@ -1,0 +1,21 @@
+{
+  "lang.en": "EN",
+  "lang.id": "ID",
+  "lang.title": "Hello",
+  "lang.greeting": "Welcome to the app",
+  "lang.login": "Login",
+  "lang.changeLanguage": "Change Language",
+  "lang.password": "Password",
+  "lang.home": "Home",
+  "lang.email": "Email",
+  "lang.dontHaveAccountYet": "Don't have account yet? Sign in here",
+  "lang.loggedInSuccess": "Berhasil Masuk!",
+  "lang.retry": "Retry",
+  "lang.myWallets": "My Wallets",
+  "lang.walletDetail": "Wallet Detail",
+  "lang.noTransactionYet": "No transactions yet.",
+  "lang.transactions": "Transaction",
+  "lang.deposit": "Deposit",
+  "lang.withdraw": "Withdraw",
+  "lang.submit": "Submit"
+}

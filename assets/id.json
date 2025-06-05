@@ -1,0 +1,21 @@
+{
+  "lang.en": "EN",
+  "lang.id": "ID",
+  "lang.title": "Halo",
+  "lang.greeting": "Selamat datang di aplikasi",
+  "lang.login": "Login",
+  "lang.changeLanguage": "Ubah Bahasa",
+  "lang.password": "Kata Sandi",
+  "lang.home": "Home",
+  "lang.email": "Email",
+  "lang.dontHaveAccountYet": "Belum punya akun? Daftar di sini",
+  "lang.loggedInSuccess": "Berhasil",
+  "lang.retry": "Coba kembali",
+  "lang.myWallets": "Dompet Saya",
+  "lang.walletDetail": "Rincian Kantong",
+  "lang.noTransactionYet": "Tidak ada transaksi.",
+  "lang.transactions": "Transaksi",
+  "lang.deposit": "Deposito",
+  "lang.withdraw": "Menarik",
+  "lang.submit": "Kirim"
+}
