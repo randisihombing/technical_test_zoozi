@@ -16,7 +16,7 @@ class AuthRemoteDataSource {
   }
 
   Future<void> register(String name, String email, String password) async {
-    await dio.post('/auth/register', data: {
+    await dio.post('$baseUrlEndPoint/auth/register', data: {
       'name': name,
       'email': email,
       'password': password,
